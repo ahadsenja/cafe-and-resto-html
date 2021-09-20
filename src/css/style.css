@@ -250,7 +250,7 @@ body {
 
 .header .login-form #email {
   width: 100%;
-  border: 1px solid var(--light-color);
+  background: #eee;
   margin: 1rem 0;
   padding: 1rem 1rem;
   border-radius: .3rem;
@@ -258,7 +258,7 @@ body {
 
 .header .login-form #password {
   width: 100%;
-  border: 1px solid var(--light-color);
+  background: #eee;
   margin: 1rem 0;
   padding: 1rem 1rem;
   border-radius: .3rem;
@@ -271,3 +271,6 @@ body {
   margin: 1rem;
 }
 /* --- End of login form --- */
+
+/* --- Media queries --- */
+/* --- End of media queries --- */
