@@ -299,6 +299,11 @@ body {
     background: #fff;
   }
 
+  .header .navbar.active {
+    right: 2rem;
+    transition: .45 linear;
+  }
+
   .header .navbar a {
     font-size: 2rem;
     margin: 2rem 2.5rem;
